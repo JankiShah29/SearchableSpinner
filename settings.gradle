@@ -1,0 +1,3 @@
+include ':searchablespinner'
+include ':app'
+rootProject.name = "SearchableSpinner"
