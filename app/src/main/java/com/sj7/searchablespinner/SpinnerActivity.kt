@@ -6,8 +6,8 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.sj7.searchablespinner.databinding.ActivitySpinnerBinding
 import com.sj7.searchablespinner.searchablespinner.SearchableSpinnerDialog
-import com.sj7.spinner.common.Spinner
-import com.sj7.spinner.common.SpinnerListener
+import com.sj7.searchablespinner.common.Spinner
+import com.sj7.searchablespinner.common.SpinnerListener
 
 class SpinnerActivity : AppCompatActivity() {
 

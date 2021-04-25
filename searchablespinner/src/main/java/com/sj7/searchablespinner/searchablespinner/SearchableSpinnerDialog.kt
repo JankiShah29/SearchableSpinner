@@ -15,13 +15,16 @@ import android.widget.SearchView
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.sj7.searchablespinner.R
+import com.sj7.searchablespinner.common.DialogListener
+import com.sj7.searchablespinner.common.Spinner
+import com.sj7.searchablespinner.common.SpinnerListener
 import com.sj7.searchablespinner.databinding.DialogSpinnerBinding
 import com.sj7.spinner.common.*
 import java.util.*
 import kotlin.collections.ArrayList
 
 
-class SearchableSpinnerDialog {
+public class SearchableSpinnerDialog {
 
     private lateinit var dialog: Dialog
     private lateinit var context: Context

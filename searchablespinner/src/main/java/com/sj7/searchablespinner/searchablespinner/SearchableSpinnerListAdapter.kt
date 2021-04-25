@@ -8,8 +8,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.sj7.searchablespinner.databinding.ItemSpineerListBinding
-import com.sj7.spinner.common.DialogListener
-import com.sj7.spinner.common.Spinner
+import com.sj7.searchablespinner.common.DialogListener
+import com.sj7.searchablespinner.common.Spinner
 import com.sj7.spinner.common.Utilities
 
 class SearchableSpinnerListAdapter(

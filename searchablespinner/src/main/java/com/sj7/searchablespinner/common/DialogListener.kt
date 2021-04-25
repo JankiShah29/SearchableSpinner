@@ -1,4 +1,4 @@
-package com.sj7.spinner.common
+package com.sj7.searchablespinner.common
 
 interface DialogListener {
     fun saveChanges()

@@ -1,4 +1,4 @@
-package com.sj7.spinner.common
+package com.sj7.searchablespinner.common
 
 data class Spinner(
     var id: String = "0",

@@ -9,7 +9,7 @@ import androidx.annotation.Nullable
 import androidx.appcompat.widget.AppCompatTextView
 import com.sj7.searchablespinner.R
 
-class SearchableSpinnerView : AppCompatTextView {
+public class SearchableSpinnerView : AppCompatTextView {
 
     var showSearchBar = true
     var setCancelable = false
